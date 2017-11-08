@@ -1,6 +1,8 @@
 # bamazon
 
-hi
+Welcome!
+
+How to use application:
 
 Using MySQL to create a database and table for items to "purchase",
 this application runs via node to display the store of products, quantities, prices,
